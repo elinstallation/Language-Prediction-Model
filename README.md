@@ -17,8 +17,8 @@ A simple language detection tool that uses character-level n-grams combined with
 ## Example Output
 ```bash
 Type a phrase and I'll guess its language! (type 'exit' to quit)
-Input: Hola, ¿cómo estás?
-Predicted Language: Spanish
-Input: Hello world!
+Input: Hej, jag heter Bengt jag jobbar på en knappfabrik
+Predicted Language: Swedish
+Input: I love Labubus with my whole heart
 Predicted Language: English
 Input: exit
