@@ -1,7 +1,6 @@
 # Language-Prediction-Model
 A simple language detection tool that uses character-level n-grams combined with a Multinomial Naive Bayes classifier. It preprocesses text by cleaning, removing stopwords, and applying stemming before training a model to predict the language of given text input.
 
----
 
 ## Features
 
@@ -12,7 +11,6 @@ A simple language detection tool that uses character-level n-grams combined with
 - Model saving and loading with `joblib`  
 - Interactive command-line interface for language prediction  
 
----
 
 ## Example Output
 ```bash
